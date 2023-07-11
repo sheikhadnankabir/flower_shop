@@ -6,13 +6,13 @@ body{
 }
 .banner1{
     height: 250px;
-    width: 100%;
+    width: 1000px;
     background-color: rgb(30, 211, 220);
     padding-top: 15px;
 
 }
 img{
-    margin-left: 400px;
+    margin-left: 500px;
     position: absolute;
 }
 .had{
@@ -31,10 +31,89 @@ img{
     margin: 10px 0 0 100px;
 }
 .seta2{
-    text-align: center;
+    margin-left: 300px;
     margin-top: 70px;
 }
 .setb2{
     text-align: center;
     font-size: 10px;
-}                   
+}
+.flow{
+    display: flex;
+    gap: 30px;
+    margin-left: 0px;
+    border-radius: 10px;
+}
+.im1{
+    height: 300px;
+    width: 200px;
+    margin-left: 10px;
+    background-color: bisque;
+    border-radius: 100px 100px 0px 0px;
+}
+.im2{
+    height: 300px;
+    width: 200px;
+    margin-left: 10px;
+    background-color: aqua;
+    border-radius: 100px 100px 0px 0px;
+    
+}
+.im3{
+    height: 300px;
+    width: 200px;
+    margin-left: 10px;
+    background-color: cadetblue;
+    border-radius: 100px 100px 0px 0px;
+}
+.suport{
+    height: 200px;
+    width: 1000px;
+    background-color: aquamarine;
+}
+.foot{
+    margin-top: 100px;
+    height: 100px;
+    width: 1000px;
+    background-color: black;
+    text-align: center;
+    
+}
+.flw{
+    color: rgb(255, 1, 132);
+}
+.sho{
+    color: rgb(130, 216, 255);
+}
+.smal1{
+    font-size: 5px;
+    text-align: center;
+    color: aliceblue;
+}
+.inp{
+    text-align: center;
+    padding-top: 70px;
+}
+.inpt{
+    text-align: center;
+    font-size: 7px;
+}
+.input1{
+    border-radius: 5px;
+    height: 200px;
+    width: 1000px;
+    background-image: url("Rectangle 9.png");
+}
+#inpt1{
+    margin:10px 0 0 300px;
+    border-radius: 5px;
+    border: none;
+    height: 30px;
+    width: 350px;
+}
+.inpt2{
+    border-radius: 5px;
+    height: 30px;
+    background-color: rgb(255, 0, 132);
+    color: aliceblue;
+}
