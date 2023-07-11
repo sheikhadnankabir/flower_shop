@@ -1,0 +1,40 @@
+body{
+    font-family: 'Nunito Sans';
+    margin: 0px;
+    padding: 0px;
+    background-color: aliceblue;
+}
+.banner1{
+    height: 250px;
+    width: 100%;
+    background-color: rgb(30, 211, 220);
+    padding-top: 15px;
+
+}
+img{
+    margin-left: 400px;
+    position: absolute;
+}
+.had{
+    width: 200px;
+    margin-left:100px;
+}
+.smal{
+    font-size: 5px;
+    width: 200px;
+    margin-left:100px;
+}
+.butt{
+    background-color: rgb(255, 72, 133);
+    color: aliceblue;
+    border-radius: 10px;
+    margin: 10px 0 0 100px;
+}
+.seta2{
+    text-align: center;
+    margin-top: 70px;
+}
+.setb2{
+    text-align: center;
+    font-size: 10px;
+}                   
